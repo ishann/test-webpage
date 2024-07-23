@@ -2,24 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: ishan-nigam.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Senior Data Scientist at [Dozee](https://www.dozee.health), where I work on data-driven methods for Non-Contact Blood Pressure estimation and earlier worked on Early Warning Systems. I graduated with a [Masters in Computer Science](https://www.cs.utexas.edu) from [The University of Texas at Austin](https://www.utexas.edu) advised by [Prof. Min Kyung Lee](https://minlee.net). Previously, I graduated with a [Masters in Robotics](https://www.ri.cmu.edu) from [Carnegie Mellon University](https://www.cmu.edu) advised by [Prof. Deva Ramanan](https://www.cs.cmu.edu/~deva/). Before starting graduate school, I worked on biometrics at IIIT Delhi and spent four wonderful years at the University of Delhi.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research experience spans applying Machine Learning to healthcare data (Non-Contact Blood Pressue estimation, Early Warning Systems), computer vision (weakly and webly supervised learning, long-tailed object detection, semantic segmentation, medical imaging, and biometrics) and human-AI interaction (personalized algorithmic management and fair resource allocation). I am interested in the research and development of large-scale AI systems with a focus on personalized Machine Learning.
